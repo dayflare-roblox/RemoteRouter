@@ -1,5 +1,6 @@
 # RemoteRouter
 
+RemoteRouter is a new way to easily create and fetch remote events, aswell as containing debug methods.
 
 RemoteRouter.new:
 ```
